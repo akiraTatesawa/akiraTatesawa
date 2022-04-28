@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá 👋
+
+### Me chamo Arthur Tatesawa
+
+- 🌱 Atualmente, estudo Desenvolvimento Web Full-Stack na empresa **Driven Education**
+- 
+
 
 <!--
 **akiraTatesawa/akiraTatesawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
