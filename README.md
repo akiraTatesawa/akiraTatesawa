@@ -2,7 +2,6 @@
 <h3 align="center">Olá 👋</h3>
 
 - 🌱  Atualmente, estudo Desenvolvimento Web Full-Stack na empresa **Driven Education**
-- 💁🏻‍♂️  Pronomes: ele/dele
 - 🇧🇷  Sou brasileiro
 
 ### 📊 GitHub Stats
