@@ -7,19 +7,14 @@
 - 🌱 **Full Stack Web Development** student at [**Driven Education**](https://www.driven.com.br/)
 - 🇧🇷 Brazilian
 
-<br>
-
 ## 📊 GitHub Stats
 
-<br>
 <a href="https://github.com/akiraTatesawa">
   <div align="center">
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiraTatesawa&layout=compact&theme=dracula" />
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=akiraTatesawa&layout=compact&theme=dracula" />
   </div>
 </a>
-
-<br>
 
 ## 🖥 Technologies & Tools
 
