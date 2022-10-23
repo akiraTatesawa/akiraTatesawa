@@ -5,11 +5,13 @@
         <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FakiraTatesawa&labelColor=%23dc6286&countColor=%23282a36" />       </a>
 </div>
 
-> Sou desenvolvedor web full stack! Sou apaixonado por front-end e busco sempre criar aplicações web acessíveis com interfaces amigáveis
+> Sou desenvolvedor web full stack!
 
 🔭 Conheça meu projeto autoral [Coletaí](https://github.com/akiraTatesawa/coletai-front).
 
 🌱 Atualmente, estou me aprofundando em Docker.
+
+🥼 Estudei química durante 7 anos! Decidi trocar de carreira após descobrir minha paixão por desenvolvimento web!
 
 ## 🚀 Minhas Skills
 
@@ -44,11 +46,14 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+## Contatos
+
+<a href = "mailto:arthurakira.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
+
 ## ⭐ Informações sobre minha conta GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akiratatesawa&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akiratatesawa&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 🕛 Informações sobre meu Wakatime
 
