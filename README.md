@@ -7,7 +7,7 @@
 
 > Sou desenvolvedor web full stack!
 
-🔭 Conheça meu projeto autoral [Coletaí](https://github.com/akiraTatesawa/coletai-front).
+🔭 Conheça o meu primeiro projeto autoral [Coletaí](https://github.com/akiraTatesawa/coletai-front).
 
 🌱 Atualmente, estou me aprofundando em Docker.
 
