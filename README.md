@@ -9,7 +9,7 @@
 
 🔭 Conheça o meu primeiro projeto autoral [Coletaí](https://github.com/akiraTatesawa/coletai-front).
 
-🌱 Atualmente, estou me aprofundando em Docker.
+🌱 Atualmente, estou me aprofundando em Domain-Driven Design, Clean Architecture e Arquitetura Hexagonal.
 
 🥼 Estudei química durante 7 anos! Decidi trocar de carreira após descobrir minha paixão por desenvolvimento web!
 
