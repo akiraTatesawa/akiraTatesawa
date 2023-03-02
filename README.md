@@ -55,8 +55,8 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akiratatesawa&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akiratatesawa&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-sooty-theta.vercel.app/api?username=akiratatesawa&theme=dracula)
+![Top Langs](https://github-readme-stats-sooty-theta.vercel.app/api/top-langs/?username=akiratatesawa&layout=compact&langs_count=7&theme=dracula)
 
 ## 🕛 Informações sobre meu Wakatime
 
